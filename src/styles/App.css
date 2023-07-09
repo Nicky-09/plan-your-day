@@ -1,0 +1,18 @@
+.App {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* background: #dba6f7; */
+  background-image: url("./bg1.webp");
+  height: 100vh;
+}
+
+.Header {
+  /* background: rgba(0, 0, 0, 0.15); */
+  color: #877bae;
+  font-size: 24px;
+  padding: 5px 0;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
